@@ -1,0 +1,1 @@
+module.exports = require('.packages/nivo-bar/cjs/nivo-bar')
